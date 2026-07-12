@@ -1,0 +1,5 @@
+Run the Sql Scirpt before run  the project
+Change the appsetting.json Databaseconnectyion string and env file apiurl regarding your local system
+node modules are added to git ignore so before run the frontend run the npm install command
+
+thank you..
